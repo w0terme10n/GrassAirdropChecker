@@ -1,4 +1,5 @@
-result.txt
+results.txt
 wallets.txt
 .venv/
 __pycache__/
+proxies.txt
